@@ -1,0 +1,106 @@
+[
+  {
+    "img": "./assets/img/project2.png",
+    "title": "Cocktails API",
+    "category": "JS",
+    "link": "https://cocktails-api01.netlify.app"
+  },
+  {
+    "img": "./assets/img/project7.png",
+    "title": "E-Commerce",
+    "category": "Html Css Js",
+    "link": "https://e-commercee01.netlify.app"
+  },
+  {
+    "img": "./assets/img/project20.png",
+    "title": "Movie App (TMDB API)",
+    "category": "REACT",
+    "link": "https://movies-app01.vercel.app/movies"
+  },
+  {
+    "img": "./assets/img/project3.png",
+    "title": "Random Users",
+    "category": "JS",
+    "link": "https://randomusers-api.netlify.app"
+  },
+  {
+    "img": "./assets/img/project4.png",
+    "title": "Github User-Search API",
+    "category": "JS",
+    "link": "https://github-user-search-app1.netlify.app/"
+  },
+  {
+    "img": "./assets/img/project13.png",
+    "title": "Time Tracker",
+    "category": "REACT",
+    "link": "https://time-tracker01.netlify.app"
+  },
+  {
+    "img": "./assets/img/project8.png",
+    "title": "Archiro Design",
+    "category": "Html Css Js",
+    "link": "https://archiro-design.netlify.app/"
+  },
+  {
+    "img": "./assets/img/project18.png",
+    "title": "Coza Store",
+    "category": "REACT",
+    "link": "https://cozaa-store.netlify.app/"
+  },
+  {
+    "img": "./assets/img/project19.png",
+    "title": "Papa Johns Clone",
+    "category": "REACT",
+    "link": "https://papa-johns-clone.netlify.app"
+  },
+
+  {
+    "img": "./assets/img/project5.png",
+    "title": "Social Media Dashboard",
+    "category": "JS",
+    "link": "https://socialmedia-dashboard01.netlify.app"
+  },
+  {
+    "img": "./assets/img/project9.png",
+    "title": "Job Lists",
+    "category": "JS",
+    "link": "https://job-lists-app.netlify.app/"
+  },
+  {
+    "img": "./assets/img/project10.png",
+    "title": "Quiz App",
+    "category": "REACT",
+    "link": "https://quiz-applicati0n.netlify.app/"
+  },
+  {
+    "img": "./assets/img/project11.png",
+    "title": "Grocery Bud",
+    "category": "REACT",
+    "link": "https://grocery-bud01.netlify.app/"
+  },
+  {
+    "img": "./assets/img/project14.png",
+    "title": "Bookmark Landing Page",
+    "category": "Html Css Js",
+    "link": "https://bookmark-landing-page01.netlify.app/"
+  },
+  {
+    "img": "./assets/img/project15.png",
+    "title": "Simple E-commerce-app",
+    "category": "REACT",
+    "link": "https://singlepage-e-commerce.netlify.app/"
+  },
+  {
+    "img": "./assets/img/project16.png",
+    "title": "Todolist app",
+    "category": "REACT",
+    "link": "https://todolist-app01.netlify.app/"
+  },
+  {
+    "img": "./assets/img/project17.png",
+    "title": "Country app",
+    "category": "REACT",
+    "link": "https://country-apii01.netlify.app/"
+  }
+
+]
